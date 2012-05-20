@@ -1,0 +1,10 @@
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\RazorEngineTest.dll
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\RazorEngineTest.pdb
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\EntityFramework.dll
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\EntityFramework.xml
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\obj\Debug\RazorEngineTest.csprojResolveAssemblyReference.cache
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\obj\Debug\RazorEngineTest.dll
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\obj\Debug\RazorEngineTest.pdb
+C:\Users\Azadeh\Documents\Visual Studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\Infrastructure.dll
+C:\Users\Azadeh\Documents\Visual Studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\RazorEngine.dll
+C:\Users\Azadeh\Documents\Visual Studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\Infrastructure.pdb

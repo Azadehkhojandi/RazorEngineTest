@@ -1,0 +1,17 @@
+﻿@{
+    _Layout = "_Layout";
+}
+
+@section Description1
+{
+List of best-selling books of Week
+}
+@section Description2
+{
+<ul>
+@foreach (var item in Model.Books)
+{
+    <li>@item</li>
+}
+</ul>
+}

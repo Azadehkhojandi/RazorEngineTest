@@ -1,0 +1,7 @@
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\Infrastructure\bin\Debug\Infrastructure.dll
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\Infrastructure\bin\Debug\Infrastructure.pdb
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\Infrastructure\bin\Debug\RazorEngine.dll
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\Infrastructure\bin\Debug\System.Web.Razor.dll
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\Infrastructure\obj\Debug\Infrastructure.dll
+c:\users\azadeh\documents\visual studio 2010\Projects\RazorEngineTest\Infrastructure\obj\Debug\Infrastructure.pdb
